@@ -1,0 +1,8 @@
+# Documentation
+*.pdf
+
+# Raw data
+*.dta
+
+# Mac files
+.DS_Store
